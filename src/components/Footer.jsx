@@ -10,7 +10,9 @@ const Footer = () => {
         <div className='flex-1 flex flex-col justify-start mr-10'>
           <img src={scaleup} alt='scaleup' className='w-[266px] h-[72px] object-contain'/>
           <p className={`${styles.paragraph} mt-4 max-w-[310px]`}>
-            
+            Contact:
+            +91-7620733998 <br></br>
+              {"       "}+1-(502)501-1428
           </p>
         </div>
 
